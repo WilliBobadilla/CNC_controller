@@ -1,4 +1,4 @@
-# CNC_controller (Documentación en proceso) 
+# CNC_controller (Documentación en proceso)  :wink:
 Programa para control de máquina CNC con ejes cilindricos, con una interfaz un poco más amigable a lo convencional
 # Autores 
   1. [Williams Bobadilla](https://github.com/WilliBobadilla)
