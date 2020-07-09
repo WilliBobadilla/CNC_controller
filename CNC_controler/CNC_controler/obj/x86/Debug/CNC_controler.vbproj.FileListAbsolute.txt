@@ -1,0 +1,25 @@
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\bin\Debug\CNC_controler.exe
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\bin\Debug\CNC_controler.pdb
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\bin\Debug\CNC_controler.xml
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Form1.resources
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Resources.resources
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.vbproj.GenerateResource.Cache
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.exe
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.xml
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.pdb
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Form2.resources
+E:\programacion2\visualstudio\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Form3.resources
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.exe
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.xml
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.pdb
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\bin\Debug\CNC_controler.exe
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\bin\Debug\CNC_controler.pdb
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\bin\Debug\CNC_controler.xml
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Form1.resources
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Form2.resources
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Form3.resources
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\Tesis.Resources.resources
+C:\Users\Emilio\Desktop\tesisenriqueguille\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.vbproj.GenerateResource.Cache
+C:\Users\Emilio\Desktop\Prueba Tesis\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.exe
+C:\Users\Emilio\Desktop\Prueba Tesis\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.xml
+C:\Users\Emilio\Desktop\Prueba Tesis\CNC_controler\CNC_controler\obj\x86\Debug\CNC_controler.pdb
