@@ -18,10 +18,10 @@ Programa para control de máquina CNC con ejes cilindricos, con una interfaz un 
 
 ## Screenshoots :iphone:
 <p float="left">
-<img src="./screenshoots/imagen1.png.jpg"  width="25%" height="35%" />
-<img src="./screenshoots/imagen2.png.jpg"  width="25%" height="35%" />
- <img src="./screenshoots/imagen3.png.jpg"  width="25%" height="35%" />
-  <img src="./screenshoots/imagen4.png.jpg"  width="25%" height="35%" />
+<img src="./screenshoots/imagen1.png"  width="25%" height="35%" />
+<img src="./screenshoots/imagen2.png"  width="25%" height="35%" />
+ <img src="./screenshoots/imagen3.png"  width="25%" height="35%" />
+  <img src="./screenshoots/imagen4.png"  width="25%" height="35%" />
 </p>
 
 
