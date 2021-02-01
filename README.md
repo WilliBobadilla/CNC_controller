@@ -16,6 +16,13 @@ Programa para control de máquina CNC con ejes cilindricos, con una interfaz un 
 
 ## Puesta en marcha 
 
+## Screenshoots :iphone:
+<p float="left">
+<img src="./screenshots/IMG-20200210-WA0008.jpg"  width="25%" height="35%" />
+<img src="./screenshots/IMG-20200210-WA0009.jpg"  width="25%" height="35%" />
+ <img src="./screenshots/IMG-20200210-WA00010.jpg"  width="25%" height="35%" />
+  <img src="./screenshots/IMG-20200210-WA00011.jpg"  width="25%" height="35%" />
+</p>
 
 
 # Licencia 
